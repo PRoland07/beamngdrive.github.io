@@ -1,0 +1,17 @@
+#egy {
+  color: limegreen;  
+}
+body  {
+  background-color: rgb(75, 75, 75);
+  text-align: center;
+}
+#ketto {
+  color: white;
+}
+nav {
+  text-align: left;
+  height: 30px;
+}
+a {
+  color: orangered;
+}
